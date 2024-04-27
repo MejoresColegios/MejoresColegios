@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MejoresColegios
 - 👀 I’m interested in computers, Formula 1
 - 🌱 I’m currently learning Java, HTML, CSS, Swift, ...
-- 💞️ I’m looking to collaborate on Tarsis Studio.
+- 💞️ I’m looking to collaborate on Tarsis Universe.
 - 📫 How to reach me mejores.colegios@gmail.com
 
 <!---
